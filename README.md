@@ -1,4 +1,4 @@
-<h2><img alt="vitasha10" src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" width='40'/>Hey there! I'm Vitaliy Suhoplechev</h2>
+<img alt="vitasha10" src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" width='30' align="left"/><h2 align="left">Hey there! I'm Vitaliy Suhoplechev</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
