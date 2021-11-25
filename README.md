@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" width="40"/> Hey there! Nice to meet you :)</h1>
+<h1><img src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" width="33"/> Hey there! Nice to meet you :)</h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
