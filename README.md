@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Vitaliy Suhoplechev</h2>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Vitaliy Suhoplechev</h2></img>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
