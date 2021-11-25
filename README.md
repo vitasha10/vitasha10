@@ -1,4 +1,5 @@
-<img alt="Night Coding" src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Vitaliy Suhoplechev</h2>
+<img alt="vitasha10" src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Vitaliy Suhoplechev</h2>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop web apps and sites.\
@@ -8,7 +9,7 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at my@vitasha.tk or write in any social network below. I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/vitasha10/vitasha10/master/assets/Night-Coding.gif" align="right"/>
+<img alt="vitasha10" src="https://raw.githubusercontent.com/vitasha10/vitasha10/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
