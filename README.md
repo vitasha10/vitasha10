@@ -32,6 +32,7 @@
 
 <details>
 <summary>More Skills</summary>
+
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/Adobei%20Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white)&nbsp;
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)&nbsp;
