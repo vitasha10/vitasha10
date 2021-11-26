@@ -30,6 +30,8 @@
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
+<details>
+<summary>More Skills</summary>
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/Adobei%20Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white)&nbsp;
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)&nbsp;
@@ -51,6 +53,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat&logo=Tor-Browser&logoColor=white)&nbsp;
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)&nbsp;
+
+</details>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
