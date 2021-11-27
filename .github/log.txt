@@ -46,3 +46,5 @@ number is 6
 number is 7
 number is 8
 number is 9
+number is 10
+number is 1
