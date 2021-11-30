@@ -61,8 +61,8 @@
 
 <p align="center">
 <a href="https://github.com/vitasha10">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vitasha10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vitasha10&layout=compact&langs_count=8&theme=tokyonight"/> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vitasha10&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vitasha10&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> 
   <br/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitasha10&theme=buefy-dark&hide_border=true&background=1a1b27"/>
   <br/>
