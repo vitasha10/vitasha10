@@ -66,7 +66,7 @@
   <br/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitasha10&theme=buefy-dark&hide_border=true&background=1a1b27"/>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vitasha10&margin-w=10&no-frame=true&row=1&theme=darkhub"/>
   </a>
 </p>
 
