@@ -65,7 +65,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vitasha10&layout=compact&langs_count=8&theme=tokyonight"/> 
   
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitasha10&theme=buefy-dark&hide_border=true&background=1a1b27"/>
-</a>
+
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub"/>
+  </a>
 </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vitasha10) 
