@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop web apps and sites.\
-🎓 &nbsp;I'm currently studying at school 146 in Perm, and I'm 15 y.o, but I like programing.\
+🎓 &nbsp;I'm currently studying at school 146 in Perm, and I'm 16 y.o, but I like programing.\
 🌱 &nbsp;I'm on track for learning more about Web, linux, and server administration.\
 ✍️ &nbsp;Programming is the most important part of my life, but not the only one, I also play the saxophone and piano and try to grow up as a diversified person.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
@@ -75,9 +75,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://vitasha.tk"><img src="https://img.shields.io/badge/-vitasha.tk-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:my@vitasha.tk"><img src="https://img.shields.io/badge/-my@vitasha.tk-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://t.me/Hack2166"><img src="https://img.shields.io/badge/-Hack2166-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/vitasha10"><img src="https://img.shields.io/badge/-vitasha10-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="https://instagram.com/vitasha123/"><img src="https://img.shields.io/badge/-vitasha123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://vk.com/vitasha123"><img src="https://img.shields.io/badge/-vitasha123-blue?style=flat&logo=VK&logoColor=white"></a>
 </p>
