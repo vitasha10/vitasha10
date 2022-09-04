@@ -75,7 +75,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:my@vitasha.tk"><img src="https://img.shields.io/badge/-my@vitasha.tk-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:m@vitasha.ru"><img src="https://img.shields.io/badge/-my@vitasha.tk-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://t.me/vitasha10"><img src="https://img.shields.io/badge/-vitasha10-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="https://instagram.com/vitasha123/"><img src="https://img.shields.io/badge/-vitasha123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://vk.com/vitasha123"><img src="https://img.shields.io/badge/-vitasha123-blue?style=flat&logo=VK&logoColor=white"></a>
