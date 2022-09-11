@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about Web, linux, and server administration.\
 ✍️ &nbsp;Programming is the most important part of my life, but not the only one, I also play the saxophone and piano and try to grow up as a diversified person.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at my@vitasha.tk or write in any social network below. I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at m@vitasha.ru or write in any social network below. I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 <img src="https://raw.githubusercontent.com/vitasha10/vitasha10/master/assets/Night-Coding.gif" align="right"/>
@@ -75,7 +75,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:m@vitasha.ru"><img src="https://img.shields.io/badge/-my@vitasha.tk-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:m@vitasha.ru"><img src="https://img.shields.io/badge/-m@vitasha.ru-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://t.me/vitasha10"><img src="https://img.shields.io/badge/-vitasha10-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="https://instagram.com/vitasha123/"><img src="https://img.shields.io/badge/-vitasha123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://vk.com/vitasha123"><img src="https://img.shields.io/badge/-vitasha123-blue?style=flat&logo=VK&logoColor=white"></a>
